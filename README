@@ -1,0 +1,5 @@
+# Ts-openNMT
+Edit following variable in train.sh and go
+path_to_data
+path_to_model
+path_to_opennmt
